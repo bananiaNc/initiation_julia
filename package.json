@@ -1,0 +1,11 @@
+{
+  "name": "projet_tuteure",
+  "version": "1.0.0",
+  "description": "Application web pour l'initition, et l'apprentissage du langage de programmation Julia, pour le calcul scientifique, l'apprentissage automatique, et l'intelligence artificielle.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emile WAPAE, Keys Dianou, Warren Kelekele",
+  "license": "ISC"
+}

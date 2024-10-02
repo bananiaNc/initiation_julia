@@ -1,11 +1,22 @@
 {
   "name": "projet_tuteure",
   "version": "1.0.0",
-  "description": "Application web pour l'initition, et l'apprentissage du langage de programmation Julia, pour le calcul scientifique, l'apprentissage automatique, et l'intelligence artificielle.",
+  "description": "Projet d'applcation web, permettant l'initiation au langage de programmation Julia, puis éventuellement à son application dans divers domaine spécifique.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Emile WAPAE, Keys Dianou, Warren Kelekele",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bananiaNc/initiation_julia.git"
+  },
+  "author": "Warren Kelekele, Keys Dianou, Emile Wapae",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bananiaNc/initiation_julia/issues"
+  },
+  "homepage": "https://github.com/bananiaNc/initiation_julia#readme",
+  "dependencies": {
+    "projet_tuteure": "file:"
+  }
 }
